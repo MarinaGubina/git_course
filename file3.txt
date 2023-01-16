@@ -1,1 +1,1 @@
-new branch
+new branch/ fixed bug (from branch master)
